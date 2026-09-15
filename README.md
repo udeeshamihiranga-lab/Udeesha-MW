@@ -7,10 +7,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udeeshamihiranga-lab/Udeesha-MW/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/udeeshamihiranga-lab/Udeesha-MW/output/github-snake.svg">
 </picture>
-# Hi there, I'm Udeesha! 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF5&center=true&vCenter=true&width=435&lines=Mobile+%26+Web+Developer;Building+Cross-Platform+Apps;UI%2FUX+Enthusiast" alt="Typing SVG" />
-</div>
 
 
