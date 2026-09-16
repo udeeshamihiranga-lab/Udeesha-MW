@@ -26,4 +26,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udeeshamihiranga-lab&show_icons=true&locale=en&layout=compact" alt="udeeshamihiranga-lab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udeeshamihiranga-lab&" alt="udeeshamihiranga-lab" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udeeshamihiranga-lab/udeeshamihiranga-lab/main/profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udeeshamihiranga-lab/udeeshamihiranga-lab/main/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/udeeshamihiranga-lab/udeeshamihiranga-lab/main/profile-3d-contrib/profile-night-view.svg">
+</picture>
 
