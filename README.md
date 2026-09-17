@@ -39,29 +39,50 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udeeshamihiranga-lab/udeeshamihiranga-lab/main/profile-3d-contrib/profile-green-animate.svg">
   <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/udeeshamihiranga-lab/udeeshamihiranga-lab/main/profile-3d-contrib/profile-night-view.svg">
 </picture>
+<!-- ========================================================= -->
+<!-- 🌊 CINEMATIC REALISTIC OCEAN FOOTER -->
+<!-- ========================================================= -->
+
 <div align="center">
 
+<!-- Animated Ocean Scene -->
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=240&section=footer&animation=twinkling&color=0:000000,15:020617,30:0f172a,50:082f49,70:0369a1,85:0284c7,100:38bdf8"
-width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&reversal=false&text=&fontSize=0&animation=twinkling&color=0:020617,20:0f172a,40:082f49,60:075985,80:0369a1,100:0ea5e9"
+  width="100%"
+/>
+
+<!-- 🌙 Floating Message -->
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1200&color=BAE6FD&center=true&vCenter=true&width=750&height=60&lines=🌙+The+ocean+is+never+still...;💻+Neither+is+the+journey+of+a+developer.;🌊+Keep+learning.+Keep+building.+Keep+exploring."
+  alt="Animated Developer Message"
 />
 
 <br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+SHUTDOWN+%5D;%3E+THANKS+FOR+VISITING+MY+GITHUB;%3E+CONNECTION+ESTABLISHED+✓;%3E+SEE+YOU+IN+THE+NEXT+PROJECT+🚀"
-alt="Terminal Animation"
-/>
+<!-- Status -->
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-0ea5e9?style=flat-square&labelColor=020617" />
+&nbsp;
+<img src="https://img.shields.io/badge/BUILDING-THE_FUTURE-0284c7?style=flat-square&labelColor=020617" />
+&nbsp;
+<img src="https://img.shields.io/badge/COFFEE-∞-38bdf8?style=flat-square&labelColor=020617" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=7dd3fc&icon_color=38bdf8&text_color=94a3b8" />
+<!-- Minimal Footer -->
+
+<sub>
+🌊 Made with curiosity • 💻 Powered by code • 🚀 Driven by imagination
+</sub>
 
 <br><br>
-
-<sub>🌊 <i>Code like the ocean — deep, continuous, and always moving.</i></sub>
 
 </div>
+
+
+
+
 
   
 
