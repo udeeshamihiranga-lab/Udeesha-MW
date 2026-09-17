@@ -7,6 +7,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udeeshamihiranga-lab/Udeesha-MW/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/udeeshamihiranga-lab/Udeesha-MW/output/github-snake.svg">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 <h1 align="center">Hi, I'm Udeesha Mihiranga</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
