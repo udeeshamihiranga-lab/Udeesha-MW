@@ -39,32 +39,26 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udeeshamihiranga-lab/udeeshamihiranga-lab/main/profile-3d-contrib/profile-green-animate.svg">
   <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/udeeshamihiranga-lab/udeeshamihiranga-lab/main/profile-3d-contrib/profile-night-view.svg">
 </picture>
+
 <div align="center">
 
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:7b2ff7&height=150&section=footer&animation=twinkling"
-    width="100%"
-  />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&animation=fadeIn&color=0:020617,15:172554,35:1e40af,55:0369a1,75:0891b2,100:67e8f9"
+  width="100%"
+/>
 
-  <br><br>
+<br>
 
-  <img src="https://img.shields.io/badge/💻_Code-00C6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Build-0072FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌊_Create-6A00FF?style=for-the-badge" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=4000&pause=1500&color=BAE6FD&center=true&vCenter=true&width=700&lines=THE+JOURNEY+DOESN'T+END+HERE+%F0%9F%8C%8A;THANKS+FOR+STOPPING+BY+%F0%9F%91%8B;LET'S+BUILD+SOMETHING+AMAZING+%F0%9F%9A%80"
+  alt="Ocean Footer"
+/>
 
-  <br><br>
+<br><br>
 
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+THANKS+FOR+VISITING+%F0%9F%91%8B;%3E+KEEP+CODING+%F0%9F%92%BB;%3E+KEEP+CREATING+%F0%9F%9A%80"
-    alt="Animated Terminal Footer"
-  />
-
-  <br><br>
-
-  <sub>• Built with passion • Powered by code • Made for the future</sub>
+<sub>© 2026 • Crafted with curiosity, creativity & code</sub>
 
 </div>
-
 
   
 
