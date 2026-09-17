@@ -39,22 +39,32 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udeeshamihiranga-lab/udeeshamihiranga-lab/main/profile-3d-contrib/profile-green-animate.svg">
   <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/udeeshamihiranga-lab/udeeshamihiranga-lab/main/profile-3d-contrib/profile-night-view.svg">
 </picture>
-
 <div align="center">
 
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:6a00ff&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:7b2ff7&height=150&section=footer&animation=twinkling"
     width="100%"
   />
 
-  <br>
+  <br><br>
+
+  <img src="https://img.shields.io/badge/💻_Code-00C6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Build-0072FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌊_Create-6A00FF?style=for-the-badge" />
+
+  <br><br>
 
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+🌊;Keep+Building.+Keep+Learning.+Keep+Growing+🚀;See+you+in+the+next+project!+💙"
-    alt="Animated Footer"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+THANKS+FOR+VISITING+%F0%9F%91%8B;%3E+KEEP+CODING+%F0%9F%92%BB;%3E+KEEP+CREATING+%F0%9F%9A%80"
+    alt="Animated Terminal Footer"
   />
 
+  <br><br>
+
+  <sub>• Built with passion • Powered by code • Made for the future</sub>
+
 </div>
+
 
   
 
