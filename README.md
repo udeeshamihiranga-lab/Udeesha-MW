@@ -9,6 +9,15 @@
 </picture>
 <h1 align="center">Hi, I'm Udeesha Mihiranga</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+## 💻 Coding Terminal
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=700&color=00C6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=750&height=180&lines=%24+whoami+%E2%86%92+Udeesha+Mihiranga;%24+role+%E2%86%92+Frontend+Developer;%24+location+%E2%86%92+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;%24+skills+%E2%86%92+HTML+CSS+JavaScript+React;%24+status+%E2%86%92+Always+learning+%F0%9F%9A%80" />
+</a>
+
+</div>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
