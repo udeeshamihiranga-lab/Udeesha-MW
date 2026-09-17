@@ -39,24 +39,27 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udeeshamihiranga-lab/udeeshamihiranga-lab/main/profile-3d-contrib/profile-green-animate.svg">
   <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/udeeshamihiranga-lab/udeeshamihiranga-lab/main/profile-3d-contrib/profile-night-view.svg">
 </picture>
-
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&animation=fadeIn&color=0:020617,15:172554,35:1e40af,55:0369a1,75:0891b2,100:67e8f9"
-  width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=240&section=footer&animation=twinkling&color=0:000000,15:020617,30:0f172a,50:082f49,70:0369a1,85:0284c7,100:38bdf8"
+width="100%"
 />
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=4000&pause=1500&color=BAE6FD&center=true&vCenter=true&width=700&lines=THE+JOURNEY+DOESN'T+END+HERE+%F0%9F%8C%8A;THANKS+FOR+STOPPING+BY+%F0%9F%91%8B;LET'S+BUILD+SOMETHING+AMAZING+%F0%9F%9A%80"
-  alt="Ocean Footer"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+SHUTDOWN+%5D;%3E+THANKS+FOR+VISITING+MY+GITHUB;%3E+CONNECTION+ESTABLISHED+✓;%3E+SEE+YOU+IN+THE+NEXT+PROJECT+🚀"
+alt="Terminal Animation"
 />
 
 <br><br>
 
-<sub>© 2026 • Crafted with curiosity, creativity & code</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=7dd3fc&icon_color=38bdf8&text_color=94a3b8" />
+
+<br><br>
+
+<sub>🌊 <i>Code like the ocean — deep, continuous, and always moving.</i></sub>
 
 </div>
 
