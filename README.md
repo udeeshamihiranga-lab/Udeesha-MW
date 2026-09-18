@@ -52,10 +52,7 @@
 <div align="center">
 
 <!-- Animated Ocean Scene -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&reversal=false&text=&fontSize=0&animation=twinkling&color=0:020617,20:0f172a,40:082f49,60:075985,80:0369a1,100:0ea5e9"
-  width="100%"
-/>
+
 
 <!-- 🌙 Floating Message -->
 
@@ -85,6 +82,10 @@
 <br><br>
 
 </div>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&reversal=false&text=&fontSize=0&animation=twinkling&color=0:020617,20:0f172a,40:082f49,60:075985,80:0369a1,100:0ea5e9"
+  width="100%"
+/>
 
 
 
