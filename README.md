@@ -55,11 +55,7 @@
 
 
 <!-- 🌙 Floating Message -->
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1200&color=BAE6FD&center=true&vCenter=true&width=750&height=60&lines=🌙+The+ocean+is+never+still...;💻+Neither+is+the+journey+of+a+developer.;🌊+Keep+learning.+Keep+building.+Keep+exploring."
-  alt="Animated Developer Message"
-/>
+![Hacker Terminal](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF00&vCenter=true&width=600&lines=>_+Initializing+system...;>_+$+npm+install+skills;>_+Compiling+algorithms...;>_+System.out.println("Keep+building");)
 
 <br>
 
